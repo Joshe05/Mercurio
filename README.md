@@ -8,7 +8,7 @@ usar para cualquier tipo de usuario.**
 
 ##Prerrequisitos
 
-#####Tener acceso a internet.
+#####**Tener acceso a internet.**
 - 
 #####Ordenador o dispositivo móvil.
 - 
