@@ -8,11 +8,11 @@ usar para cualquier tipo de usuario.**
 
 ##Prerrequisitos
 
-#####**Tener acceso a internet.**
+**Tener acceso a internet.**
 - 
-#####Ordenador o dispositivo móvil.
+**Ordenador o dispositivo móvil.**
 - 
-#####Navegador web (El de su preferencia)
+**Navegador web (El de su preferencia)**
 - 
-#####Tener un correo electrónico (El de su preferencia)
+**ener un correo electrónico (El de su preferencia)**
 
