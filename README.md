@@ -14,5 +14,5 @@ usar para cualquier tipo de usuario.**
 
 
 ## Instalación
-- ##### Mercurio esta basado en un entorno web por lo que no necesita ser instalado lo único que se necesita para poder tener acceso es tener la dirección de nuestra red social.(Enlace provisional solo como ejemplo : (http://26.244.255.52/mercurio/index.php) )
+- ##### Mercurio esta basado en un entorno web por lo que no necesita ser instalado lo único que se necesita para poder tener acceso es tener la dirección de nuestra red social.(Enlace provisional solo como ejemplo : (http://26.244.255.52/mercurio/index.php) 
 
