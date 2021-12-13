@@ -1,6 +1,4 @@
-## Mercurio
-
-
+##
 ![](https://raw.githubusercontent.com/Joshe05/Mercurio/main/images/logo.png)
 
 **Mercurio es una red social en la web la cual permite a nuestros usuarios
