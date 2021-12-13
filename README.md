@@ -10,7 +10,7 @@ usar para cualquier tipo de usuario.**
 - ##### Tener acceso a internet.
 - ##### Ordenador o dispositivo móvil.
 - ##### Navegador web (El de su preferencia)
-- ##### Tener un correo electrónico (El de su preferencia)
+- ##### Tener un correo electrónico (El de uso personal)
 
 
 ## Instalación
