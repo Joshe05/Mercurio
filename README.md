@@ -6,7 +6,7 @@ poder realizar publicaciones, interactuar con otros usuarios entre muchas
 cosas. Mercurio se centra en poder ser una red social amigable y fácil de
 usar para cualquier tipo de usuario.**
 
-##Prerrequisitos
+## Prerrequisitos
 
 **Tener acceso a internet.**
 - 
