@@ -7,12 +7,11 @@ cosas. Mercurio se centra en poder ser una red social amigable y fácil de
 usar para cualquier tipo de usuario.**
 
 ## Prerrequisitos
-
-**Tener acceso a internet.**
 - 
-**Ordenador o dispositivo móvil.**
+##### Tener acceso a internet.
 - 
-**Navegador web (El de su preferencia)**
+##### Ordenador o dispositivo móvil.
 - 
-**ener un correo electrónico (El de su preferencia)**
-
+##### Navegador web (El de su preferencia)
+- 
+##### Tener un correo electrónico (El de su preferencia)
